@@ -1,6 +1,6 @@
 # Project 1 for Data Exploration Course June 2014
 # John S. Johnson
-# Creates plot 2 
+# Creates plot 3
 #
 #
 # Opens file and loads data, reports size
